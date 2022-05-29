@@ -1,0 +1,19 @@
+{
+  "Monday": {
+    "Programming languages 2": "09:00-10:30",
+    "Introduction to Engineering & CS": "10:40-12:10",
+    "Physical training": "13:00-14:40",
+    "English language 2": "14:50-16:20",
+    "Engineering Computer Graphics": "16:30-18:00"
+  },
+  "Tuesday": {
+    "Calculus": "09:00-11:20",
+    "Turkish": "11:30-13:00",
+    "Russian language (for foreigners)": "15:40-17:10"
+  },
+  "Wednesday": {
+    "Introduction to Engineering & CS": "09:00-09:40",
+    "Russian language": "12:20-14:40",
+    "Programming languages 2": "14:50-16:20"
+  }
+}
